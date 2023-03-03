@@ -1,11 +1,15 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
+import Head from 'next/head';
+import Image from 'next/image';
+import { Inter } from 'next/font/google';
+import styles from '@/styles/Home.module.css';
+import { usePlayersContext } from '@/context/PlayersContext';
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ['latin'] });
 
 export default function Home() {
+  const { players, playerList, playerSelect } = usePlayersContext();
+  console.log('playerList: ', playerList);
+  console.log('players: ', players);
   return (
     <>
       <Head>
@@ -119,5 +123,5 @@ export default function Home() {
         </div>
       </main>
     </>
-  )
+  );
 }
