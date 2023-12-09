@@ -1,8 +1,15 @@
-import PlayersProvider from '@/context/PlayersContext';
+import PlayersProvider from '@/contexts/PlayersContext';
 import '@/styles/globals.css';
 import type { AppProps } from 'next/app';
+import { useEffect } from 'react';
+import { useFetch } from 'usehooks-ts';
 
-export default function App({ Component, pageProps }: AppProps) {
+const App = ({ Component, pageProps }: AppProps) => {
+  // useEffect(() => {
+  const { data, error } = useFetch(process.env.DATABASE_URL);
+  console.log('data: ', data);
+  // });
+
   return (
     <>
       <PlayersProvider>
@@ -10,4 +17,6 @@ export default function App({ Component, pageProps }: AppProps) {
       </PlayersProvider>
     </>
   );
-}
+};
+
+export default App;

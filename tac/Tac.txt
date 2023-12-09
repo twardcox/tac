@@ -1,0 +1,28 @@
+TAC is a 2 to 4 player board game.
+
+Data
+
+player
+  id
+  name
+  display name
+  marbles
+    color
+    positions
+  cards
+
+cards (100)
+  id
+  name
+  title
+  description
+  game effect (function call)
+
+
+master cards (4)
+  id
+  name
+  title
+  description
+  card removed
+  game effect
