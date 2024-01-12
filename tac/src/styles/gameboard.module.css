@@ -1,0 +1,9 @@
+.gameBoard {
+  display: grid;
+  background-color: red;
+}
+
+.marbleSpot {
+  display: inline-grid;
+  background-color: blue;
+}

@@ -88,3 +88,7 @@ export const marbleColors = {
   3: 'green',
   4: 'yellow',
 };
+
+export { useGameContext };
+
+export default GameProvider;

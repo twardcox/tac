@@ -26,3 +26,9 @@ master cards (4)
   description
   card removed
   game effect
+
+number of marbles per player (4)
+
+numuber of spaces in outer circle (64)
+number of quadrants (4)
+number of spaces per quandrant (16)
