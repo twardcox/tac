@@ -1,0 +1,624 @@
+Quick Start and TACtic
+English Version
+Congratulations
+We are delighted that you purchased this high­quality product from us. TAC is played in teams
+and is a unique combination of card and board game. Have fun taking home your marbles and
+teasing the opponents by smart team play.
+Discover the incredibly exciting world of TAC!
+Please read the Quick Start guide if you play TAC for the first time. If questions come up during
+the game, you can look them up under the respective term in the TACtic.
+Note on gender­neutral formulation: For the sake of readability we used ‘he’, ‘his’ etc.
+throughout the complete game instruction, but we always refer to both female and male players.
+Content
+Quick Start and TACtic
+1. Quick Start
+1.1. Rules of the Basic Version
+Schematics
+Preparing the game for four players
+Cards and marbles
+Regular Cards
+Special Cards
+Playing the game
+Game rules
+Team play
+End of game
+2. TACtic
+2.1. Rules of the Master Version
+2.1.1. Functions of the four Master Cards
+The Jester
+The Angel
+The Warrior
+The Devil
+2.1.2. The TAC card in combination with the Master Cards
+Playing TAC on the Jester
+Playing TAC on the Angel
+Playing TAC on the Warrior
+Playing TAC on the Devil
+2.3. Detailed explanation of the Special Cards
+The cards 1 and 13
+The card 4
+The card 7
+The card 8
+The Trickster
+The TAC card
+3. Rules for four players as a cooperative (Team TAC)
+4. Rules for one to three players
+4.1. Rules for a solo game
+4.2. Rules for two players
+4.3. Rules for three players
+5. TAC from A – Z (important terms)
+6. Tournaments and TAC meetings
+7. Imprint
+8. Legal Notes
+Edition July 2016 / www.spieltac.de
+1. Quick Start
+1.1. Rules of the Basic Version
+Players
+1 to 4
+Ideal for 4 players
+Age
+8+
+Duration
+45 to 60 minutes
+Game contents
+● this manual including Quick Start guide and TACtic
+● 104 game cards (including 4 Master Cards)
+● Information cards
+● 1 wooden game board
+● 16 marbles (4 per color) in a fabric bag
+Game concept
+Two teams of two players try to be the first to take home their marbles by TACtically swapping
+and playing their cards.
+Object of the game
+The first team to take home all eight marbles wins.
+Schematics
+1. Base | Player 1
+1. Start position | Player 1
+2. Home (four spaces) | Player 1
+3. Discard area
+4. Playing track
+Fig. 2
+Moving the marble from the Base to the Start position.
+Fig. 3
+Moving the marble from the Startposition clockwise around the track.
+Fig. 4
+The Home area can only be accessed via the Start position.
+There are four Home spaces, which sequence is determined by the line connecting the
+four spaces. The last Home space is additionally marked with a silver dot.
+Preparing the game for four players
+Two teams of two players are selected by choice or by drawing lots. The team partners face
+each other (Fig. 1). Everyone has their Start position in front of them. Each player now selects
+four marbles of a color and places three of them in the Base to his right and one on his Start
+position (note: each player starts with one marble on his Start position only during the
+introduction game. In a normal game all players start with all four marbles in the Base).
+The four Master Cards (Joker, Angel, Warrior and Devil) are removed from the deck of cards
+and put back into the box. The information cards are also removed from the deck and
+distributed among the players. All players read the information cards for the Basic Version and
+put them in front of them with this side facing up. Now assemble the remaining cards into a deck
+with 100 game cards and shuffle them thoroughly.
+Cards and marbles
+The marbles are moved along the playing track by playing the cards. You can only move your
+own marbles (the Trickster is an exception; see information card for the Basic Version).
+To move a marble along the track, a marble must first be moved from the Base to the Start
+position (Fig. 2). You can do this by playing one of the opening cards (1 and 13). From the Start
+position the marble is moved clockwise along the track (Fig. 3). You can move a marble from
+the track to Home only by passing the Start position (Fig. 4).
+Regular Cards
+Regular Cards have black numbers (2, 3, 5, 6, 9, 10 and 12): If such a card is played, the player
+moves one of his own marbles the corresponding number of spaces clockwise along the track.
+Special Cards
+Special Cards are the cards with red numbers (1, 4, 7, 8, 13), Trickster and TAC. You can us
+the Special Cards to dramatically speed up the way Home or to disrupt the TACtic of the
+opposing team. Please read the detailed description of the Special Cards under section 2.3.
+You can also find basic information about the Special Cards on the information card (Basic
+Version).
+Example for playing a Special Card
+The 4 card is the only card used to move in counter­clockwise direction. You can save almost
+an entire circle by playing the 4 to your advantage.
+After a marble has been moved from the Base to the Start position, you can
+● Move backwards (counter­clockwise) on the track by playing a 4 and move directly Home
+with a matching card (5, 6, 7, or 8) in the next turn.
+● Initially move forward 1, 2, or 3 spaces and then use the 4 in the next turn to move Home
+by reversing.
+Refer to the TACtic to find more examples and detailed explanations for the Special Cards.
+
+Playing the game
+A dealer is picked
+The dealer thoroughly mixes the deck of 100 cards and deals out five cards face­down to each
+player. Do not let the other players see the fronts of your cards at any time. The stack is placed
+by the player to the left of the dealer.
+The game is played in three phases, which are repeated until the game ends. Phase1: Declare,
+Phase 2: Swap, Phase 3: Play
+Phase 1 – Declare
+Each player declares whether or not he has an opening card (1, 13) in his hand. You are not
+allowed to say which or how many opening cards you are holding. If you have at least one
+opening card, you can say: ‘I can!’ If you do not have any opening cards, you can say: ‘I can’t!’
+Declarations are made each time after cards are dealt (even if no more marbles are located at
+the Base or if a marble is already located on the Start position).
+Phase 2 – Swap
+Each player now swaps one card, facing down, with his team partner. You can only look at your
+received card after you have given a card to your partner.
+Note: cards must be swapped.
+Phase 3 – Play
+First play a card – then move!
+The player to the left of the dealer begins.
+He selects a card, places it face­up in the center of the game board and makes a corresponding
+move.
+The game now continues in clockwise direction. Each player plays a card until everyone has
+played all their cards.
+The player to the left of the previous dealer now again deals five cards to each player. After the
+cards are dealt, the declaration, swapping and playing phases are repeated.
+After cards have been dealt five times, all 100 cards of the deck have been played and must be
+reshuffled by the player to the left of the last dealer. This is again followed by the three phases.
+Game rules
+1. If a marble hits the space of another, that marble is captured and put back into its Base.
+2. ‘Don’t skip over – you’re not a rover’ ­ Skipping over marbles is not permitted! No
+other marbles, regardless of color, can be skipped over (exception: playing a 7; refer to
+information card, Basic Version).
+3. The function of a card can only be used if the matching number can be moved in full.
+4. If you do not have a card that you can use to execute an action, you must discard a card
+of your choice without using its function.
+5. ‘If you can – you must!’ ­ If you can only use cards that are disadvantageous for your
+team, you still have to play them. You are not allowed to discard a card if you have a
+possibility to use a card’s function.
+6. If you have several options to move your marbles, you can choose as you wish. There is
+no restriction as to move a marble from the Base to the Start position, to move a marble
+away from the Start position or to capture another marble.
+7. Several or all of your own marbles can be located on the track at the same time.
+8. ‘Marvelous functions require marbles on track’ ­ The Trickster and the special
+function of the 8 (to make the next player miss one turn) can only be used if the player
+playing the card has at least one marble on the track.
+9. A marble which has been moved from the Base to the Start position cannot be moved
+Home directly. It has to be moved away from the Start position at least once (exception: if
+a marble was moved away from Start and is then moved back to Start by a TAC card
+played by the next player, its status is still ‘unmoved’, because the TAC card completely
+reverses the previous turn).
+10. A marble which is moved from the track to the Home area has to pass the Start position.
+If you want to take a marble Home, it must be possible to move the marble to a free
+Home space. Marbles which are already in the Home area cannot be skipped over
+(exception: the card 7; see information card, Basic Version). If you do not have a
+matching card to go home, it may be necessary to move past Home and to do another
+full circle.
+11. With a suitable card you can move a marble within Home (even if you have no marble on
+the track). Within Home you can only move forward (exception: the card 7; see 2.3).
+12. When at the end of your turn a marble has reached its final position within Home (i.e. it is
+located on a field that is not followed by an empty field), it is locked in place and cannot
+be moved again after this turn.
+13. ‘Once home – you may no longer roam!’ ­ Once a marble is Home, it cannot be moved
+back onto the track (exception: when the move is reversed by the TAC card of the
+following player)
+Team play
+TAC requires strong team play to succeed.
+How does team play work?
+You can support your team partner in a variety of ways.
+Examples of good team play:
+1. When cards are swapped, you should consider which card your team partner might
+need, for instance to:
+a. bring in a new marble from the Base to the Start position (in case your partner has
+no marble on the track, he may not be able to enter the game and is forced to
+discard a card turn after turn)
+b. to capture an opponent’s marble
+c. to move Home with a suitable number
+2. You can use the Trickster to bring marbles of your team partner into a more favorable
+position.
+Team play enters a new dynamic during the End Phase.
+A player who has taken home all of his own marbles, from now on uses his own cards to move
+his partner’s marbles. If a player moves his last marble into his house with a 7 and he has steps
+left, he can use the remaining steps for his partner’s marbles. This is only possible if the partner
+has marbles that are free to move (either on the track or marbles in the Home area that are not
+locked in place).
+Communication between players
+1. Verbal and non­verbal communication regarding team play is not allowed at any phase of
+the game!
+2. During the introductory game, it is of course permitted to openly discuss the team
+TACtics, the swapping of cards and the game moves.
+End of game
+The game ends when a team has taken Home the eighth and final marble. The last marble must
+be moved Home with an exactly fitting card; otherwise it needs to move past Home.
+Please refer to the TACtic for more detailed information and if you have questions which are not
+answered by the Quick Start guide.
+Once aTACked – always hooked!
+2. TACtic
+Welcome to the world of TACtic. If you play TAC for the first time, please read the Quick Start
+guide first. Here in the TACtic you will find detailed descriptions of the Special Cards, the rules
+of the Master Version as well as variations of the game.
+2.1. Rules of the Master Version
+When you are familiar with TAC in the Basic Version and you are looking for a bigger challenge
+with new and exciting features, you should play TAC in the Master Version.
+By choosing this game modus you need to add the four Master Cards to the deck. The deck
+should now contain a total of 104 cards. Therefore, when dealing the last 24 cards before
+reshuffling, each player gets six cards instead of five. That round is called the ‘Master Round’.
+The basic rules for playing cards and making moves generally apply also to the Master Cards.
+All Master Cards can be played during a player’s turn like the Regular Cards. If the active player
+has no marbles on the track and cannot move any marble in the Home area, he must play a
+Master Card (except for the Warrior, which cannot be played in this case).
+2.1.1. Functions of the four Master Cards
+The Jester
+Function
+When the Jester is played, each player passes all of his remaining cards in his hand to the
+player on his right (counter­clockwise). The player who played the Jester must then play one of
+his new cards and perform the new action.
+Properties
+● If the Jester is played as the last remaining card of the current round, the card has no
+effect.
+● The Jester can be played anytime by the active player, even if the player has no marble
+on the track.
+Options
+The Jester disrupts any kind of TACtic and planning ahead. A good opportunity to play the
+Jester is when:
+● Both players of one team do not have an opening card but the other team does.
+● Both players of on team are not able to perform any actions with their remaining cards.
+● Your own team is close to winning, but you do not have a suitable card on your hand to
+end the game. You may have to pass your Home and do the whole circle again.
+However, when playing the Chester, there is a chance that the required card is among
+the new cards.
+● The opposing team is close to winning and you want to prevent them from doing so and
+disrupt their TACtic.
+Special case
+If the player of the Jester receives a TAC card with his new cards and plays this card, the last
+action prior to playing the Jester is reversed, not the Jester itself.
+The Angel
+Function
+When the Angel is played, the active player has to move a marble of the opponent to his left
+from the opponent’s Base to the opponent’s Start position. If the opponent does not have any
+marbles in his Base, the active player moves one of the opponent’s marbles either 1 or 13
+spaces forward.
+Properties
+● The Angel must be played if you cannot play any other card to perform a valid action.
+● If there is already a marble on the opponent’s Start position, regardless of color, that
+marble is captured when placing a new marble from the opponent’s Base to his Start
+position.
+● The player to the left of the player of the Angel still has his turn and plays next, even if
+one of his marbles was put on the Start position or was moved forward.
+● If the player to the left of the player of the Angel has all marbles in his Home, the Angel
+takes effect on the person to the right of the player of the Angel. This does, however, not
+change the turn order.
+Options
+● It is difficult to use the Angel to the advantage of your own team.
+● The Angel can be helpful for your own team when the affected player’s Start position is
+occupied by his own marble (when it had moved already and is ready to go Home), by
+his partner’s marble or when one marble of the affected player can be moved past his
+Home.
+The Warrior
+Function
+When the Warrior is played, the active player moves one of his own marbles forward in
+clockwise direction until it hits the next marble on the track. That marble is captured and the
+marble which was moved by the Warrior takes its position.
+Properties
+● The Warrior captures the first marble it hits – regardless of color. In the worst case it
+captures your own or your team partner’s marble.
+● If you have no marble on the track, the Warrior cannot be played and is wasted.
+● If only one marble is on the track and it belongs to the player playing the Warrior, that
+marble captures itself and is placed back into Base.
+Options
+● The Warrior is the only chance to capture a marble which is far away on the track and to
+make a big leap forward at the same time.
+● The Warrior also enables the active player to capture a marble which is 11 spaces away
+and thus not reachable with the Regular Cards.
+The Devil
+Function
+When the Devil is played, the active player plays a card for the opponent on his left and
+performs the according action for that player.
+Properties
+● The player of the Devil looks at the cards of the opponent to his left, chooses one card
+from the opponent’s hand and performs an according action for the opponent. The player
+of the Devil can choose which function of the chosen card is played and which of the
+opponent’s marbles is moved.
+● The cards must be passed face­down between the player of the Devil and the opponent.
+● The player which is affected by the Devil loses his turn because the player of the Devil
+performed the action for him.
+● If the Devil is played as the last remaining card of the current round, the card has no
+effect.
+Options
+● The Devil card is worth its name. It is best used to thwart the TACtic of the opposing
+player/ team.
+● The Devil is especially effective towards the end of the game.
+Special case
+If the player of the Devil chooses to play the Jester from the opponent’s cards, the function of
+the Jester is performed and each player’s cards are passed face­down to the right. Afterwards
+the player of the Devil chooses one of the opponent’s new cards and again plays a card for the
+opponent.
+2.1.2. The TAC card in combination with the Master Cards
+Playing TAC on the Jester
+If the TAC card is played directly after the Jester (see ‘The Jester’), the exchange of cards is not
+reverted, but instead the player reverts the action which was played directly before the Jester
+and he uses that card for himself.
+Playing TAC on the Angel
+If the TAC card is played directly after the Angel, the function of the Angel is reverted (see
+‘Angel’). In addition, the player who played TAC gains the power of the Angel himself and
+places a new marble from the next player’s Base to the next player’s Start position. If the next
+player’s Base is empty, the current player moves, according to the rules, one of the next
+player’s marbles either 1 or 13 spaces forward.
+Playing TAC on the Warrior
+If the TAC card is played directly after the Warrior, the marble which was captured by the
+Warrior returns to its position on the board and the player who played the Warrior moves his
+marble back to its position prior to playing the Warrior. In addition, the player who played the
+TAC card has to capture the next marble in front of one of his own marbles.
+Playing TAC on the Devil
+It may not occur that often that the TAC card is played immediately after the Devil card because
+the player of the Devil card can choose any of the opponent’s cards to play and playing the TAC
+card means to play a TAC on himself. If the player does it anyway (which is a totally legal
+action) or if the player has to choose the TAC card because the opponent cannot perform any
+other valid action, the player whose TAC card is being played gains the power of the Devil and
+he now chooses a card from the opponent to his left and performs a move for that player (who
+is the team partner of the player of the Devil card).
+2.3. Detailed explanation of the Special Cards
+The cards 1 and 13
+Function
+Take a marble from the Base and place it on the Start position or move 1/13 spaces forward.
+The card 4
+Function
+Any of your own marbles may be moved backwards four spaces (counter­clockwise).
+Properties
+● A marble must be moved backwards.
+● You cannot skip over any marble.
+● If a marble lies exactly four spaces behind yours, it is captured.
+● A ‘new’ marble (i.e. a marble which has just been brought into play and has never left the
+Start position) may not be moved directly Home with a 4.
+● A marble in the Home spaces cannot be moved out of the Home spaces with this card.
+Options
+● If a ‘new’ marble is lying on the Start position, you can save a whole circle by playing the
+4: play the 4 and move backwards. Then in the next turn play an appropriate card (5, 6, 7
+or 8) to move directly home.
+● You can also move 1, 2 or 3 forward first and then in the next turn play the 4 to move
+backwards into the Home spaces.
+Special case
+If a marble reaches the Start position for the second time or is ‘tricksed’ there (i.e. put there by
+playing a Trickster), the 4 can be used to move into the Home spaces directly (of course, only if
+all four Home spaces are free).
+The card 7
+Function
+The 7 can be used to move 7 single steps in any order. You may move one or more of your own
+marbles forward on the track. You can even use some steps (or all of them) to move a marble
+into the Home spaces or to sort them within the Home area.
+Properties
+● All 7 steps must be used.
+● The 7 is the only card which allows you to capture another marble by ‘skipping’ over it
+because you have 7 single steps.
+● The worst case is when you have to capture your partner’s marbles or even your own.
+● You can capture more than one marble with a 7.
+● Inside the Home spaces you can move forwards and backwards with a 7.
+● You can move as many marbles inside the Home area as you want, as long they have
+not been locked in place in a previous move (a marble is locked in place when at the end
+of a player’s move there is no free Home space behind it).
+Options
+● The 7 is the best card to capture other marbles.
+● The 7 is the most important card to get marbles into the Home spaces.
+● The 7 can be used perfectly to sort your marbles inside your Home even if you do not
+have marbles on the track.
+Special case
+It is possible to use some steps of the 7 to take your last marble Home and use the remaining
+steps to move one or more of your partner’s marbles. This is only possible if your partner has
+marbles on the track or in his Home which can be moved. If this is not the case, you may have
+to move past your Home (if you do not have any other suitable card).
+The card 8
+Function
+You may move your marble 8 spaces forward (clockwise) or you can make the player to your
+left miss a turn (he must discard a card from his hand).
+Properties
+● You may play the 8 to make the next player miss a turn only if you have a marble on the
+playing track.
+Options
+● The 8 is a good card to save your partner from being captured.
+● It is an important card to mess up the TACtic of your opponent.
+Special case
+If the 8 is played as the last card in the round, the card cannot be used to make the player on
+your left miss a turn. You have to move your marble 8 spaces forward.
+The TAC card is stronger than the 8. If a player uses an 8 to make the following player miss a
+turn, that player may play the TAC card on the 8 and use either function of the 8 for himself. A
+player is not forced to play the TAC card. He may choose to discard the TAC card (or any other
+card) to skip that turn.
+The Trickster
+Function
+You may swap any two marbles: your own, your partners, your opponents or any combination of
+them.
+Properties
+● You may only play the Trickster if you have a marble on the track.
+● If only one marble is on the track, the Trickster is no use.
+● You must not discard the Trickster if you can play other cards.
+● If a Trickster is played, marbles must be swapped even if it is disadvantageous for your
+own team.
+● You may also swap two of your own marbles.
+● Marbles in the Home spaces must not be swapped.
+Options
+● With the Trickster card you can move your own marbles or those of your partner into an
+advantageous position.
+● The Trickster helps you to cover great distances without having to move around the
+whole track.
+● By effective ‘tricksing’ you can take your marble Home within a few moves.
+● Of course the Trickster can be used to move an opponent’s marble away from his Home.
+Special case
+If a marble gets ‘tricksed’ directly onto your own Start position, you can then move that marble
+directly home in your next turn – if you have an appropriate card.
+The TAC card
+Function
+The TAC card has two functions: it reverses the action of the opponent to the right of the player
+of the TAC card and that player then uses the card himself.
+Properties
+● ‘If you can – you must!’ ­ Even the TAC card cannot be kept. If the TAC is the only card
+which can be played, you must play it, even if it is going to harm your team.
+● If the reverted card has two functions (the cards 1, 8 and 13), you can choose which
+function you wish to use, regardless of which function was used by the opponent.
+● You can only play TAC if you can use the reverted card for your own action. Otherwise
+the card must not be used.
+● A TAC card can be played on a discarded card. In this case only the function of the
+discarded card can be used and no action is reverted.
+● If a TAC card is played after a discarded TAC, then only the function of the card below
+the first TAC will be used. The action performed with that card is not reverted.
+● Playing TAC after the cards are dealt – the first card played after the cards are dealt
+cannot be a TAC card. The TAC cannot undo the last move of the last round.
+● The TAC card must be used to revert your opponent's winning move (i.e. the move in
+which that team moves their eighth marble into their Home). The requirement that you
+have to be able to play the function of that card yourself still applies in this case. Another
+TAC cannot be played.
+Options
+● The TAC card is the only card (apart from the Angel of the Master Version) to get into the
+game if you do not have any marbles on the track and nor opening cards (1 or 13). You
+do this by playing your TAC card on the 1 or 13 which has been played by the opponent
+to your right. The TAC card becomes more important towards the end of the game
+because you can disturb the TACtic of your opponents and especially revert their winning
+move.
+● You can play TAC after a marble was captured – the movement of the previous player is
+reversed and the captured marble is returned to its previous position. The card which
+was played before the TAC card must now be used by the person who played TAC.
+● You can play TAC after a marble has reached Home – the TAC card can be played as an
+exception to the rule ‘Once Home – you may no longer roam!’ A move that takes a
+marble into any of its Home spaces can be reverted by the TAC card. The marble is
+returned to its previous position and the player of the TAC card must use the played card
+for his own move.
+Special cases
+Playing TAC on the card 8
+The TAC card is stronger than the 8. If a player uses an 8 to make the following player miss a
+turn, that player may play the TAC card on the 8 and use either function of the 8 for himself. A
+player is not forced to play the TAC card. He may choose to discard the TAC card (or any other
+card) to skip that turn.
+Playing the TAC on the Trickster
+The swapped marbles are returned to their original positions and the player of the TAC card
+must now swap two marbles himself. If a marble was moved away or ‘tricksed’ away from the
+Start position and was returned by a TAC card, the marble must not be moved directly into the
+Home spaces – the marble has to be moved away from the Start position before going Home.
+Playing the TAC card on a TAC card
+If you play a TAC card on a TAC card, the action of the first TAC is reverted and the action that
+was reverted by the first TAC is reestablished. The player who played the second TAC may now
+use the function (or choose one of the functions) of the reestablished card.
+An example for playing the TAC card on a TAC card:
+Player A uses the 13 to place a marble on his Start position. Player B uses a TAC to revert this
+move. Hence, player A puts his marble back to his Base and player B decides to put one of his
+marbles on his Start position. However, player C plays another TAC, reverting the TAC of player
+B. As a result, the marble of player B is put back into his Base, player A places his marble back
+to his Start position and player C must use the 13 for himself. He may choose to either move
+one of his marbles 13 spaces forward or to place a new marble onto his Start position.
+3. Rules for four players as a cooperative (Team TAC)
+‘Playing against the game’
+Cooperation and team TACtic are required even more in this version.
+There are no opponents (only bad cards!) and the common goal for all four players is to take
+Home all 16 marbles together using as few cards as possible.
+A TACtical masterpiece is to achieve this within one deck of cards, i.e. no reshuffling and
+re­dealing of the deck (using 100 cards or 104 in the Master Version). The general rules also
+apply to this version.
+Additional rule: If two players sitting opposite to one another have taken all eight marbles into
+their respective Homes, they can then use their cards to move all remaining marbles. The 16th
+marble must be taken Home as usual, requiring the exact number of spaces. This version can
+also be played with two or three players.
+4. Rules for one to three players
+4.1. Rules for a solo game
+In the solo variation you try – as in the game version for four players in one team – to take all 16
+marbles Home using just one deck of cards. For each color five cards are dealt as usual but this
+time face­up to the corresponding sides of the board. You play all the colors and you can
+therefore plan up to 20 moves ahead. A real brain teaser!
+4.2. Rules for two players
+TAC for two creates a whole new challenge and is especially suited for experienced TACticians.
+Each player acts as a Team playing two colors.
+Both players sit next to each other (on two adjacent sides of the board instead of opposite each
+other).
+Each player receives five cards for one color set of marbles and then another five cards for his
+second color set. These sets of cards are always to be kept separate from each other – each
+card set must always relate to the same color set of marbles.
+To avoid confusion, we recommend holding the set of cards corresponding to the color of
+marbles on your side of the board (your own closest Base) in your left hand (for right­handed
+players), between your thumb and index finger and the set of cards for the opposite set of
+marbles behind these, between your index finger and middle finger. (You will soon get the hang
+of it!). With both sets of cards in mind, you can, for example, play the Trickster more
+purposefully and accurately.
+4.3. Rules for three players
+In the three player version one color remains unused.
+No teams are formed. The player who takes all four of his marbles Home first, wins.
+However, there is no ‘team factor’ in this version of the game.
+If you prefer, you can play an alternative version for three players:
+One player plays with two colors (i.e. two sets of marbles) and holds five cards per color in his
+hand (see two player game). The other two players play as a normal TAC team and sit opposite
+each other. The single player has a distinct advantage because he knows all ten cards and can
+use the exact TACtics required when swapping cards and playing TACtically, especially in the
+End Phase.
+To compensate for this advantage of the single player, the team partners may look at each
+other’s cards before swapping cards. Cunning TACticians can also try a two­versus­one game
+in which each player plays only one color. The single player will be greatly hindered by his
+opponents but he has to take only four marbles Home. When playing this three player version,
+the place to the right of the single player remains unoccupied.
+5. TAC from A – Z (important terms)
+Action– to carry out the function of a card.
+Back and forth – the 7 card allows you to move your marbles backwards and forwards within
+the four Home spaces, as long as they are not locked in place at the beginning of the move.
+Backwards– anti­clockwise around the board.
+Base – the hollow in the corner of the board, where each player keeps his marbles (of one
+color) which are not in play or Home.
+Bring into play – put a marble onto the corresponding Start position by playing an opening
+card (1 or 13).
+Capturing – when a marble is hit with an exact number (or with a 7 card or Warrior of the
+Master Version), it is put back to its Base and the capturing marble takes its position
+Capturing by passing – only possible with the 7 card: jump over any blocking marbles,
+capturing them in the process.
+Centre– the discard area; the big hollow in the centre of the board.
+Declare – the players announce, for all players to hear, whether or not they have an opening
+card. It can also be a visual sign – usually a ‘thumbs up’ for ‘yes’ and a ‘thumbs down’ for ‘no’.
+Discard area – the centre; the big hollow in the centre of the board.
+Double function – the 1, 8 and 13 cards allow the player to choose between one of two
+actions:
+● 1 and 13 cards: bring a marble into play or move 1 (for 1 card) or 13 (for 13 card)
+clockwise on the track.
+● 8 card: use the ‘Miss a turn’ function or move 8 spaces clockwise on the track.
+End Phase – the End phase begins when a player has all four of his own marbles Home and
+then uses his own cards to move his partner’s marbles.
+Forwards– clockwise around the board.
+Home – the four Home spaces which a player attempts to reach with all four of his marbles
+(also see Sorting).
+In play– a marble which is on the playing track (marbles in the Home spaces are not in play).
+Locked in place – a marble which at the end of a turn has reached the last Home space (i.e.
+the last space that can be occupied at that moment following the line connecting the Home
+spaces) is said to be ‘locked in place’ and must not be moved again in this game.
+Marble– playing piece, usually a glass marble.
+Master Cards– the Jester, the Angel, the Warrior and the Devil.
+Master Round – in the Master Version of the game, which is played with 104 cards, the last
+round is played with six cards (instead of the usual 5 card round).
+Miss a turn – a function of the 8 Card: the following player is forced to miss his turn, but must
+discard a card from his hand, face­up in the centre of the board (without carrying out the
+function of the card).
+Opening card– a card which can be used to bring a marble into play (1 and13).
+Partner – team partner; the partner you cooperate with. Partners sit on opposite sides of the
+board.
+Playing track– the 64 spaces on the game board which are arranged in a circular track.
+Regular cards – those cards which move a player’s marble the corresponding number of
+spaces forward in clockwise direction, without special actions. Regular cards are: 2, 3, 5, 6, 9,
+10 and 12.
+Round – one round is finished when all players have played all their cards (taking turns) and
+new cards have to be dealt
+Sorting – moving the marbles within one’s Home spaces. Usually, the marbles are arranged in
+such a way that they get ‘locked in place’ (see ‘Locked in place’) to create free spaces for the
+remaining marbles in play. It can also be a strategy to keep a marble ‘mobile’ on purpose. Only
+with the 7 card marbles can be moved backwards within their Home. With the cards 1, 2 and 3
+marbles can be moved forward within the Home spaces (if enough spaces are vacant).
+Space– one of the 64 spaces which form the circular track of the game board.
+Special Cards– the Trickster, the TAC card and the cards 1, 4, 7, 8 and 13.
+Stack– remaining stack of shuffled cards that have not yet been dealt.
+Start position – the space onto which a marble is put when it is brought into play by playing an
+opening card 1 or 13). It is also the space that has to be passed when taking a marble Home.
+Once a marble has been moved away from the Start position and hits it a second time
+(exception: TAC card – the move is reverted) it can be taken Home with a suitable card (1, 2, 3,
+4 or 7).
+Taking Home– move a marble into one of the Home spaces.
+Team partner – partner; the partner you cooperate with. Partners sit on opposite sides of the
+board.
+Track– playing track; the 64 spaces on the game board which are arranged in a circular track.
+Tricksing – playing a Trickster card to swap any two marbles on the playing track. In order to
+play the trickster, you have to have at least one marble on the track.
+Unused– a card which has to be discarded without using its function.
+6. Tournaments and TAC meetings
+Regarding tournaments and TAC meetings please inform yourself on www.spieltac.de.
+For help in English please visit our Forum (www.tacforum.de) or our facebook Page
+(www.facebook.com/spieltac).
+7. Imprint
+TAC Verlag, Karl Wenning
+Blumenthal 1
+86551 Aichach
+Germany
+www.spieltac.de
+info@spieltac.de
+We are happy about any feedback, questions and creative ideas concerning TAC. Simply send
+us an Email. We look forward to hearing from you!
+8. Legal Notes
+TAC is a registered trademark; all parts and the design are copyright protected.
+Any other use, disclosure, reproduction or publication of contents of this document (including
+extracts or in electronic form) need the prior written permission of TAC Verlag.
+© Copyright TAC Verlag. 2016. All rights reserved. Reproduction, adaptation or translation
+without permission is prohibited except as allowed under the International copyright laws. All the
+text, graphics, design, content and other works are the copyrighted works of TAC Verlag.
